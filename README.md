@@ -18,3 +18,4 @@
  - jupyter notebook
 
 
+Resources: https://github.com/jeffheaton/t81_558_deep_learning/tree/master
